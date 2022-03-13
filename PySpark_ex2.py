@@ -1,5 +1,3 @@
-#!pip install pyspark
-
 #Instalando Bibliotecas
 from pyspark.sql import SparkSession
 from  pyspark.sql.functions import regexp_replace
